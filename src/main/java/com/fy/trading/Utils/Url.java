@@ -1,0 +1,7 @@
+package com.fy.trading.Utils;
+
+public class Url {
+
+    public static final String URL_SITE = "https://s.tradingview.com/embed-widget/market-quotes/?locale=en#%7B%22width%22%3A%221220%22%2C%22height%22%3A%22850%22%2C%22symbolsGroups%22%3A%5B%7B%22originalName%22%3A%22Forex%22%2C%22symbols%22%3A%5B%7B%22name%22%3A%22FX%3AEURUSD%22%7D%2C%7B%22name%22%3A%22FX%3AGBPUSD%22%7D%2C%7B%22name%22%3A%22FX%3AUSDJPY%22%7D%2C%7B%22name%22%3A%22FX%3AUSDCHF%22%7D%2C%7B%22name%22%3A%22FX%3AAUDUSD%22%7D%2C%7B%22name%22%3A%22FX%3AUSDCAD%22%7D%2C%7B%22name%22%3A%22OANDA%3ANZDUSD%22%2C%22displayName%22%3A%22NZD%2FUSD%22%7D%2C%7B%22name%22%3A%22FX_IDC%3AUSDCNY%22%2C%22displayName%22%3A%22USD%2FCNY%22%7D%2C%7B%22name%22%3A%22OANDA%3AEURGBP%22%2C%22displayName%22%3A%22EUR%2FGBP%22%7D%2C%7B%22name%22%3A%22OANDA%3ASPX500USD%22%2C%22displayName%22%3A%22SP%20500%22%7D%2C%7B%22name%22%3A%22OANDA%3AUK100GBP%22%2C%22displayName%22%3A%22FTSE%20100%22%7D%2C%7B%22name%22%3A%22XETR%3ADAX%22%2C%22displayName%22%3A%22DAX%22%7D%2C%7B%22name%22%3A%22FX_IDC%3AUSDWTI%22%2C%22displayName%22%3A%22WTI%22%7D%2C%7B%22name%22%3A%22OANDA%3AXAUUSD%22%2C%22displayName%22%3A%22XAU%2FUSD%22%7D%5D%2C%22name%22%3A%22Forex%22%7D%5D%2C%22largeChartUrl%22%3A%22https%3A%2F%2Fwww.fxstreet.com%2Frates-charts%2Fchart%2Ftradingview%22%2C%22utm_source%22%3A%22www.fxstreet.com%22%2C%22utm_medium%22%3A%22widget_new%22%2C%22utm_campaign%22%3A%22market-quotes%22%7D";
+    public static final String URL_INF = "https://www.fxstreet.com/rates-charts/rates";
+}
